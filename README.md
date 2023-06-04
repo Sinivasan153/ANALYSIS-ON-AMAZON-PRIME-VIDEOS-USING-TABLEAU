@@ -13,17 +13,32 @@ viewer patterns, and provide recommendations for content selection and user expe
 improvements. This analysis will help Amazon Prime Video understand its strengths and
 areas for growth in the competitive streaming industry.
 
-# This Python 3 environment comes with many helpful analytics libraries installed
-# It is defined by the kaggle/python Docker image
-# For example, here's several helpful packages to load
+About this Dataset:
+Amazon Prime is another one of the most popular media and video streaming platforms.
+They have close to 10000 movies or tv shows available on their platform, as of mid-2021,
+they have over 200M Subscribers globally. This tabular dataset consists of listings of all the
+movies and tv shows available on Amazon Prime, along with details such as - cast,
+directors, ratings, release year, duration
 
-import numpy as np # linear algebra
-import pandas as pd # data processing, CSV file I/O (e.g. pd.read_csv)
+Approach:
+1) Data Collection and Preparation: Gather relevant data related to Amazon Prime
+Video, such as content details (genres, ratings, release years), user engagement
+metrics (views, ratings, reviews), and user behavior data.
+Ensure the data is in a structured format, such as CSV or Excel, suitable for import into
+Tableau.
+2) Connect Data to Tableau:
+Open Tableau and connect to the dataset by selecting the appropriate data source option
+(e.g., CSV, Excel, or a database).
+Import the dataset into Tableau, specifying the appropriate data types for each field.
+3) Data Exploration and Visualization:
+Use Tableau's drag-and-drop interface to explore the dataset and understand its structure.
+Create various dashboards to represent the data.
 
-# Input data files are available in the read-only "../input/" directory
-# For example, running this (by clicking run or pressing Shift+Enter) will list all files under the input directory
-
-import os
-for dirname, _, filenames in os.walk('/kaggle/input'):
-    for filename in filenames:
-        print(os.path.join(dirname, filename))
+Results:
+In conclusion, analyzing Amazon Prime Video using Tableau can provide valuable insights
+into the streaming service's content library, user engagement, and viewer preferences. By
+visualizing data related to genres, viewership patterns, user behavior, content
+performance, and regional preferences, actionable recommendations can be derived to
+optimize content selection, enhance user experience, and improve viewer engagement.
+DATASET LINK:
+https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows
