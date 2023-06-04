@@ -14,6 +14,7 @@ improvements. This analysis will help Amazon Prime Video understand its strength
 areas for growth in the competitive streaming industry.
 
 About this Dataset:
+
 Amazon Prime is another one of the most popular media and video streaming platforms.
 They have close to 10000 movies or tv shows available on their platform, as of mid-2021,
 they have over 200M Subscribers globally. This tabular dataset consists of listings of all the
@@ -21,6 +22,7 @@ movies and tv shows available on Amazon Prime, along with details such as - cast
 directors, ratings, release year, duration
 
 Approach:
+
 1) Data Collection and Preparation: Gather relevant data related to Amazon Prime
 Video, such as content details (genres, ratings, release years), user engagement
 metrics (views, ratings, reviews), and user behavior data.
@@ -35,6 +37,7 @@ Use Tableau's drag-and-drop interface to explore the dataset and understand its 
 Create various dashboards to represent the data.
 
 Results:
+
 In conclusion, analyzing Amazon Prime Video using Tableau can provide valuable insights
 into the streaming service's content library, user engagement, and viewer preferences. By
 visualizing data related to genres, viewership patterns, user behavior, content
