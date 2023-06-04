@@ -45,3 +45,5 @@ performance, and regional preferences, actionable recommendations can be derived
 optimize content selection, enhance user experience, and improve viewer engagement.
 DATASET LINK:
 https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows
+
+linkedin video link:https://www.linkedin.com/posts/sinivasan-d-3664951a4_video-tableau-content-activity-7071024950584754176-DaHh?utm_source=share&utm_medium=member_desktop
